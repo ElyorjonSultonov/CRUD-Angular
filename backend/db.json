@@ -1,0 +1,21 @@
+{
+  "posts": [],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Elyor",
+      "lastName": "Sultonov",
+      "email": "Elyor@gmail.com",
+      "dob": "2022-05-21T19:00:00.000Z",
+      "gender": "male",
+      "education": "Font-end developer",
+      "company": "Fintech",
+      "experience": 2,
+      "package": 4,
+      "id": 1
+    }
+  ]
+}
